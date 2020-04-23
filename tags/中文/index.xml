@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Amps on Hugo LAMP</title>
-    <link>https://arguskao.github.io/hugo-lamp/amp/</link>
-    <description>Recent content in Amps on Hugo LAMP</description>
+    <title>中文 on Hugo LAMP</title>
+    <link>https://arguskao.github.io/hugo-lamp/tags/%E4%B8%AD%E6%96%87/</link>
+    <description>Recent content in 中文 on Hugo LAMP</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 31 May 2018 07:11:59 +0700</lastBuildDate>
     
-	<atom:link href="https://arguskao.github.io/hugo-lamp/amp/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://arguskao.github.io/hugo-lamp/tags/%E4%B8%AD%E6%96%87/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>

@@ -3,62 +3,67 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://localhost:1313/tags/amp/</loc>
+    <loc>https://arguskao.github.io/hugo-lamp/tags/amp/</loc>
     <lastmod>2018-05-31T07:11:59+07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/amp/</loc>
+    <loc>https://arguskao.github.io/hugo-lamp/amp/</loc>
     <lastmod>2018-05-31T07:11:59+07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/amp/getting-started/</loc>
+    <loc>https://arguskao.github.io/hugo-lamp/amp/getting-started/</loc>
     <lastmod>2018-05-31T07:11:59+07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://arguskao.github.io/hugo-lamp/</loc>
     <lastmod>2018-05-31T07:11:59+07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://arguskao.github.io/hugo-lamp/tags/</loc>
     <lastmod>2018-05-31T07:11:59+07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/tags/theme/</loc>
+    <loc>https://arguskao.github.io/hugo-lamp/tags/theme/</loc>
     <lastmod>2018-05-31T07:11:59+07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/post/cover-example/</loc>
+    <loc>https://arguskao.github.io/hugo-lamp/tags/%E4%B8%AD%E6%96%87/</loc>
+    <lastmod>2018-05-31T07:11:59+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://arguskao.github.io/hugo-lamp/post/cover-example/</loc>
     <lastmod>2018-05-28T14:09:24+07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/post/</loc>
+    <loc>https://arguskao.github.io/hugo-lamp/post/</loc>
     <lastmod>2018-05-28T14:09:24+07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/hugo/getting-started/</loc>
+    <loc>https://arguskao.github.io/hugo-lamp/hugo/getting-started/</loc>
     <lastmod>2018-05-28T13:22:14+07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/tags/hugo/</loc>
+    <loc>https://arguskao.github.io/hugo-lamp/tags/hugo/</loc>
     <lastmod>2018-05-28T13:22:14+07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/hugo/</loc>
+    <loc>https://arguskao.github.io/hugo-lamp/hugo/</loc>
     <lastmod>2018-05-28T13:22:14+07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://arguskao.github.io/hugo-lamp/categories/</loc>
   </url>
   
 </urlset>

@@ -2,39 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Hugo LAMP</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>https://arguskao.github.io/hugo-lamp/tags/</link>
     <description>Recent content in Tags on Hugo LAMP</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 31 May 2018 07:11:59 +0700</lastBuildDate>
     
-	<atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://arguskao.github.io/hugo-lamp/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>AMP</title>
-      <link>http://localhost:1313/tags/amp/</link>
+      <link>https://arguskao.github.io/hugo-lamp/tags/amp/</link>
       <pubDate>Thu, 31 May 2018 07:11:59 +0700</pubDate>
       
-      <guid>http://localhost:1313/tags/amp/</guid>
+      <guid>https://arguskao.github.io/hugo-lamp/tags/amp/</guid>
       <description></description>
     </item>
     
     <item>
       <title>theme</title>
-      <link>http://localhost:1313/tags/theme/</link>
+      <link>https://arguskao.github.io/hugo-lamp/tags/theme/</link>
       <pubDate>Thu, 31 May 2018 07:11:59 +0700</pubDate>
       
-      <guid>http://localhost:1313/tags/theme/</guid>
+      <guid>https://arguskao.github.io/hugo-lamp/tags/theme/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>中文</title>
+      <link>https://arguskao.github.io/hugo-lamp/tags/%E4%B8%AD%E6%96%87/</link>
+      <pubDate>Thu, 31 May 2018 07:11:59 +0700</pubDate>
+      
+      <guid>https://arguskao.github.io/hugo-lamp/tags/%E4%B8%AD%E6%96%87/</guid>
       <description></description>
     </item>
     
     <item>
       <title>hugo</title>
-      <link>http://localhost:1313/tags/hugo/</link>
+      <link>https://arguskao.github.io/hugo-lamp/tags/hugo/</link>
       <pubDate>Mon, 28 May 2018 13:22:14 +0700</pubDate>
       
-      <guid>http://localhost:1313/tags/hugo/</guid>
+      <guid>https://arguskao.github.io/hugo-lamp/tags/hugo/</guid>
       <description></description>
     </item>
     
